@@ -1,0 +1,8 @@
+autoscan: warning: missing AC_CHECK_FUNCS([select]) wanted by: 
+	src/spider.c:72
+	src/test_scheduler.c:72
+autoscan: warning: missing AC_CHECK_FUNCS([strcspn]) wanted by: 
+	src/cli.c:86
+	src/cli.c:157
+autoscan: warning: missing AC_TYPE_OFF_T wanted by: 
+	src/tinyhttp.c:176
